@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "dauntless-theme-426901-r6",
+  "private_key_id": "e58d0815e6022b2ee3a8febd2756789521c0e63a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDrW0OYzi4pFVlC\n49bVtEgtUg/mzD23M4VsxckIhFnnqZdtjI0+90nEC+uAkPRaaKyE/Uybvw2eHCVH\ngPpuyLA2nZeZxS4/DwGWEplC06kP7YDZLTGc1xnWWUqA2wGJBsSWwPk97gX9a3xh\nOvLv9LYROrorQvzPSLAMJ7ysyIwnnMnukJwURDWmoGVwI70ScJUr1syev9gtFm9B\nVvW779DBH3FztS1S4pbj4QFA7zLsFDMqge11xxnJUeN16mtH8dDry0tT2AWUD/7z\ntGzlwNyrDucfSKHuKpX79pWZtZfdEff689BYm9F8XqEJOsJS5BVdNytii45Ehiau\ns4fEmLGLAgMBAAECggEATGCtqyUd7c8zzHVL/sYmti5vYqLdVFqv7gCxoMXyty9e\nKPr3y3tMwQZtQqfH5J8bfX0GI3T44lqX7oB4xQLzzIWP8SMAQw6HoUAf5IPz1Wtp\n6RC1jQRxKhKIDxEDiohbu+CcAfEAmKENGDCdLinn++dnCysOB+a62vb6T8g1U5T6\n0GzDrR42LYF0lZPwVbPHRDO7ui0otMbMOb5TV6IoyMTyQGCCvOpXlWABZUQpTXaf\npvbJnBrRvZnJWp1mNOFTdIfe4Pl5y1DIoAvmay+gTOFschcX1JJ1g+76jhWcEvUQ\ncx5wrObBWPijsf56yVMlrmDFaocDc1jmnEx2e2ITgQKBgQD3xLFBVg7HCP1Uw/Vz\nWodMcOK1u7PHACqzMdDomF6UqszVvjyGXkiZRACDuVO8s3Npw/+mGP6BiTzgSn+m\nennQoc2RJbc9jlBa09pg3ZURlz3kVUlrs1t24cM5fe5Lr9b98raZpvP1gS17WUJl\nSg8QR47zaU58O+QZh/yf81QeuwKBgQDzLQHTqq+v2+VjHNbs6yOH5mT++5d3qHkh\nsYJUterhV5b9Sa8eGm6zPXfty1T9vJnjYYU1dwTOEvk+byzwAvdY26Uw8ySl4Frq\n19EcLBzTWkiX3AJ2dmNXpZTgZ6grF7HcIWKswmr5Tmo9+FuV/stOWL7BDs2ufAnJ\nGrymVrnTcQKBgQDAQRKdtQ4waQxRyuBZiwRzTyDLjYN5RercMyp8YUb6qvHYZQ4H\n4X8J1ldj3tlYEhLbHefwVXKexwPCsmwMnPqK5hJhr1dZX2WApOTNxwJVrPqsg3U+\nKeUuAQ6APPQ8LIxxbvU7ku24MW0+SkuX1viLVEtbGvp4sexT104yOxip4wKBgQCQ\n8ZewKYHUiXZdsDfvOWyROWOjlCTBPtsMmTh8833P2Rx3Vq8Ze1nWXmIYi+TZ5Mu4\n+0yiBJIJnsePTkbzvGDgRvNcjOCgOm0Wo5LRfv2jgKHaWlnhcElgWaK2azKSlOn/\nsqqVHMEUXof27gzxB9D4nu78Na2lPeu7QcOGRhU3EQKBgQDoorBdje/o3yUoRRVy\n4yHWkvDRSm6BCAaWon3dhQTPUxbwomz+3yzj385Dd/ddyeibiYIXyATii9sDNhyt\nTg1K8ABCOkcCokKc6yaxzit8PXDwR+EaeHxR0Jarbx56chuGCX1KQi2SsL2IDcez\nLNIVzx9w4EZp5cMlkR9TOfK7aQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "projeto-ia-212@dauntless-theme-426901-r6.iam.gserviceaccount.com",
+  "client_id": "114807138929778201985",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/projeto-ia-212%40dauntless-theme-426901-r6.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
